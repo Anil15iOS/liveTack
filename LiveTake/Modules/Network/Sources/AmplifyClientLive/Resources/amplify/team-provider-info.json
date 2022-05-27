@@ -1,0 +1,16 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-livetake-dev-182437-authRole",
+      "UnauthRoleArn": "arn:aws:iam::444077130228:role/amplify-livetake-dev-182437-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::444077130228:role/amplify-livetake-dev-182437-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-livetake-dev-182437-deployment",
+      "UnauthRoleName": "amplify-livetake-dev-182437-unauthRole",
+      "StackName": "amplify-livetake-dev-182437",
+      "StackId": "arn:aws:cloudformation:us-west-2:444077130228:stack/amplify-livetake-dev-182437/beaaff20-9dbd-11ec-84c4-06699cbc5715",
+      "AmplifyAppId": "d3f8vtjncyjaud",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-livetake-dev-182437-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    }
+  }
+}

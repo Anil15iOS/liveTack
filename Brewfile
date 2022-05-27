@@ -1,0 +1,10 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "homebrew/services"
+brew "apollo-cli"
+brew "git-lfs"
+brew "nvm"
+brew "postgresql", restart_service: true
+brew "swiftlint"
+brew "yarn"
